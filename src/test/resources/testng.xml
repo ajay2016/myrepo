@@ -1,0 +1,15 @@
+<suite name="SuiteA">
+	
+	
+	<test name="GmailLogin" >
+		<classes>
+			<class name="com.qtpselenium.core.hybrid.testcases.GmailLogin" />
+		</classes>
+	</test>
+	
+	
+	
+	
+	
+</suite>
+
